@@ -5,7 +5,10 @@ def test_func():
     print('hello!')
 
 def numbers_function():
-	print('123')
+	print('122223333')
+
+def letters_function():
+	print('abc')
 
 def check_item_in_list(x, a_list):
     return x in a_list
