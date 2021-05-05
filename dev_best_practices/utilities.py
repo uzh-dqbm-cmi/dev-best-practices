@@ -6,12 +6,16 @@ def test_func():
 
 
 def numbers_function():
-    print('4242')
-
-
+    print('122223333')
+ 
+    
 def more_numbers_please():
     for i in range(5):
         numbers_function()
+
+
+def letters_function():
+	print('abc')
 
 
 def check_item_in_list(x, a_list):
