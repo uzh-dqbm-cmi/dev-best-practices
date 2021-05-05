@@ -4,6 +4,8 @@ import pandas as pd
 def test_func():
     print('hello!')
 
+def numbers_function():
+	print('123')
 
 def check_item_in_list(x, a_list):
     return x in a_list
